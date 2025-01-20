@@ -23,3 +23,10 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 cargo install eza
 echo "alias ls='eza -g'" >> $HOME/.oh-my-zsh/custom/aliases.zsh
 ```
+
+## Start zsh
+This will only be required the first time. Every subsequent wsl session will
+load the configurations.
+```bash
+zsh
+```
