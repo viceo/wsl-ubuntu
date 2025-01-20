@@ -5,7 +5,7 @@ Quick customization scripts for WSL2 - Ubuntu
 
 ## Install zsh shell with theme
 ```bash
-curl -sL https://raw.githubusercontent.com/viceo/wsl-ubuntu/refs/heads/master/install.bash | bash
+curl -sL https://raw.githubusercontent.com/viceo/wsl-ubuntu/refs/heads/master/setup.bash | bash
 ```
 
 ## Install rust
