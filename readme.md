@@ -2,7 +2,7 @@
 
 Quick customization scripts for WSL2 - Ubuntu
 
-## Windows Steps
+## Windows Step
 Install WSL2 (Windows Subsystem for Linux). The following instructions are for
 Windows11.
 
